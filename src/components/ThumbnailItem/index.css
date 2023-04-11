@@ -1,0 +1,19 @@
+/* Write your code here. */
+.thumbnail-list-item {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+.thumbnail-button {
+  background-color: transparent;
+  padding: 0px;
+  border: none;
+  outline: none;
+}
+.thumbnail {
+  width: 68px;
+  height: 68px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
